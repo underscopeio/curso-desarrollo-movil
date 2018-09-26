@@ -1,3 +1,5 @@
+# Clase 7
+
 ## Módulos externos
 
 Por lo general, con los **componentes y APIs** que incluyen **React Native y Expo** es más que suficiente para construir la aplicación que queremos.
